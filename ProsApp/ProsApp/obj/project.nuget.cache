@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "76NZBAIa4RwLqZZFS7+L7dN7Lm6UTOjvFBUox1ZB5lGdDH94m/dm+y5ac4n777/TWpSAbGu3BDIWFQTOimeR7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tdrap\\source\\repos\\ProsApp\\ProsApp\\ProsApp\\ProsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tdrap\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tdrap\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tdrap\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512",
+    "C:\\Users\\tdrap\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\tdrap\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
