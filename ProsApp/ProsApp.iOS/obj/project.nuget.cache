@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RMGld5Z09XDcz8vqE9uT7iwDv6t1B85JlsNDzhDQt3Koww0wFIcY9Geub1ob9+WbIyjiW3gke1BPjkqpmHG9/w==",
+  "dgSpecHash": "mEvqe+jIiFtpWRKD2QhxE5jl68yH0prRX3h9cob90QuFi35eoxBieBwXpSyOuM5uBhX2IiZbovOu/cntsk5vcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tdrap\\source\\repos\\ProsApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tdrap\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512",
-    "C:\\Users\\tdrap\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Users\\tdrap\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "C:\\Users\\nonAdmin\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512",
+    "C:\\Users\\nonAdmin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nonAdmin\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\nonAdmin\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
