@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj": {}
+    "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj": {
+    "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
         "projectName": "ProsApp.iOS",
-        "projectPath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
+        "projectPath": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
         "packagesPath": "C:\\Users\\nonAdmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\obj\\",
+        "outputPath": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj": {
-                "projectPath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj"
+              "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj": {
+                "projectPath": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj": {
+    "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj",
+        "projectUniqueName": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj",
         "projectName": "ProsApp",
-        "projectPath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj",
+        "projectPath": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj",
         "packagesPath": "C:\\Users\\nonAdmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp\\obj\\",
+        "outputPath": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

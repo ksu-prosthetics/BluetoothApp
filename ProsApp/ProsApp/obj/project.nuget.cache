@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QAhduuOy0Lw4ZRmfJWnB4CftaQsvXlo35ZdneCsciMN8X+Fz8dgHq2s5FmQNTwe+IINKxbO1/AWFEUsXLq6jYw==",
+  "dgSpecHash": "nOOd/tObw3/llAYl04Q/X6uBJgPfWkfVgK1QP8iuJ79ImiFOECINzlkXwfKgR8FjKTm2qMGkY6KYC7VJJmNhYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj",
+  "projectFilePath": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp\\ProsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nonAdmin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\nonAdmin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

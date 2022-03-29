@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mEvqe+jIiFtpWRKD2QhxE5jl68yH0prRX3h9cob90QuFi35eoxBieBwXpSyOuM5uBhX2IiZbovOu/cntsk5vcg==",
+  "dgSpecHash": "1I8m2cGYTK9lPHYmzpNjMa50dMNUoPdgrHjUYNVGYrbD6YomAVeHuIRC8Riu1rEyyEGCbJCTtQAWAoxyxY0fvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nonAdmin\\Source\\Repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\nonAdmin\\source\\repos\\BluetoothApp\\ProsApp\\ProsApp.iOS\\ProsApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nonAdmin\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512",
     "C:\\Users\\nonAdmin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
