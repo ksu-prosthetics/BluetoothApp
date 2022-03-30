@@ -1,5 +1,6 @@
 ﻿using Plugin.BLE;
-using System;
+using Plugin.BLE.Abstractions.Contracts;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 
 /// <summary>
@@ -9,10 +10,11 @@ using System.Diagnostics;
 namespace ProsApp.Bluetooth
 {
 
-	public class Vanilla
+    public class Vanilla
 	{
-		public Plugin.BLE.Abstractions.Contracts.IBluetoothLE BLE;
-		Plugin.BLE.Abstractions.Contracts.IAdapter Adapter; 
+		Plugin.BLE.Abstractions.Contracts.IBluetoothLE BLE;
+		Plugin.BLE.Abstractions.Contracts.IAdapter Adapter;
+		ObservableCollection<IDevice> diveList; 
 		public void Setup() //can become contructor 
 		{
 			var ble =     CrossBluetoothLE.Current;
