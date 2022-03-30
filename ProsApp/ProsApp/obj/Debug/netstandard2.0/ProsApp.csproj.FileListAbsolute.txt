@@ -18,3 +18,6 @@ C:\Users\tdrap\source\repos\ProsApp\ProsApp\ProsApp\obj\Debug\netstandard2.0\Xam
 C:\Users\tdrap\source\repos\ProsApp\ProsApp\ProsApp\obj\Debug\netstandard2.0\ProsApp.dll
 C:\Users\tdrap\source\repos\ProsApp\ProsApp\ProsApp\obj\Debug\netstandard2.0\ref\ProsApp.dll
 C:\Users\tdrap\source\repos\ProsApp\ProsApp\ProsApp\obj\Debug\netstandard2.0\ProsApp.pdb
+C:\Users\tdrap\Source\Repos\BluetoothApp1\ProsApp\ProsApp\obj\Debug\netstandard2.0\ProsApp.dll
+C:\Users\tdrap\Source\Repos\BluetoothApp1\ProsApp\ProsApp\obj\Debug\netstandard2.0\ref\ProsApp.dll
+C:\Users\tdrap\Source\Repos\BluetoothApp1\ProsApp\ProsApp\obj\Debug\netstandard2.0\ProsApp.pdb
